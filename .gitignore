@@ -1,0 +1,13 @@
+*.BAK
+*.log
+*.drc
+*.net
+*.ERR
+/Tmp/*.*
+*.o
+*.d
+*.i
+*.lst
+*.sct
+*.html
+*.axf
